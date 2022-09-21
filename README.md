@@ -1,2 +1,2 @@
 # Parser-Film-from-ivi
-dddwfwf
+Input your teleToken in file log.py and start main.py
